@@ -29,7 +29,7 @@ Este projeto foi desenvolvido como prática de frontend utilizando Angular, com 
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/mirandahildebrando/cadastro-alunos
 
 
 2. Acesse a pasta do projeto:
