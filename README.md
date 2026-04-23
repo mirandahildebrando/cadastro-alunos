@@ -1,27 +1,67 @@
-# CadastroAlunos
+📚 Cadastro de Alunos (Frontend Angular)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+Este projeto consiste em uma aplicação web desenvolvida com Angular para cadastro e visualização de alunos, incluindo cálculo automático de média das notas.
 
-## Development server
+🔧 Funcionalidades
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Cadastro de alunos com notas
+- Cálculo automático da média
+- Listagem dos alunos em tabela dinâmica
+- Seleção de registros
 
-## Code scaffolding
+🧪 Objetivo do projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este projeto foi desenvolvido como prática de frontend utilizando Angular, com foco em:
 
-## Build
+- Estruturação de componentes
+- Manipulação de dados no frontend
+- Consumo de APIs REST
+- Organização de código
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+🛠️ Tecnologias utilizadas
 
-## Running unit tests
+- Angular
+- TypeScript
+- HTML
+- CSS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+▶️ Como executar o projeto
 
-## Running end-to-end tests
+1. Clone o repositório:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+2. Acesse a pasta do projeto:
+
+cd nome-do-projeto
+
+
+3. Instale as dependências:
+
+npm install
+
+
+4. Execute a aplicação:
+
+ng serve
+
+
+5. Acesse no navegador:
+
+http://localhost:4200/
+
+
+## 🌐 Deploy
+
+A aplicação está disponível em:
+👉 https://iridescent-yeot-64fdb6.netlify.app/
+
+## 📌 Observações
+
+Este projeto faz parte do meu processo de aprendizado em desenvolvimento frontend.  
+Meu foco principal é desenvolvimento backend com Java e Spring Boot, mas busco evoluir continuamente para me tornar um desenvolvedor mais completo.
+
+## 📎 Autor
+
+Hildebrando Miranda
